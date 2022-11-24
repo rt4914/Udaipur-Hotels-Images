@@ -152,9 +152,9 @@
 			"minimum": 1500,
 			"maximum": 9000
 		},
-		"cover_image": "https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/petal-of-mewar.jpeg?raw=true",
+		"cover_image": "https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/Petal%20of%20Mewar.jpg?raw=true",
 		"other_images": [
-			"https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/petal-of-mewar-2.JPG?raw=true"
+			"https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/Petal%20Of%20Mewar%20Room.jpg?raw=true"
 		],
 		"stats": {
 			"rating": 4.2,
