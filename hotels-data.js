@@ -217,7 +217,7 @@
 	{
 		"id": 7,
 		"name": "Hotel Boheda Palace",
-		"description": "<p>Hotel Boheda Palace offers well-appointed rooms equipped with air-conditioners, cable television, intercom facility. In addition, the bathrooms provides hot/cold water supply and essential bathroom toiletries are provided in each room to ensure a comfortable stay of guests.</p><p>Guests can expect to have a relaxing, hassle free and Enjoyable Stay.</p><p>are equipped with Services such as Split Air Conditioning, Free Wifi, TV, Internet Access, telephone, in-room menu, , Toiletries, temp control, 24x7 Hour Reception</p><p>The in- house restaurant serves scrumptious Indian, Continental and Chinese cuisines.</p>",
+		"description": "<p>Hotel Boheda Palace offers well-appointed rooms equipped with air-conditioners, cable television, intercom facility. In addition, the bathrooms provides hot/cold water supply and essential bathroom toiletries are provided in each room to ensure a comfortable stay of guests.</p><p>Guests can expect to have a relaxing, hassle free and Enjoyable Stay.</p><p>Rooms are equipped with Services such as Split Air Conditioning, Free Wifi, TV, Internet Access, telephone, in-room menu, , Toiletries, temp control, 24x7 Hour Reception</p><p>The in- house restaurant serves scrumptious Indian, Continental and Chinese cuisines.</p>",
 		"location": "Lake Palace Road",
 		"map_location": "https://goo.gl/maps/qNdhRqq6dsPXjmqE9",
 		"price": {
