@@ -213,41 +213,5 @@
 		"rules": [
 			"No pets allowed"
 		]
-	},
-	{
-		"id": 7,
-		"name": "Florence Continental Hotel",
-		"description": "<p>Hotel Florence Continental in Udaipur is 22.0 km from Maharana Pratap Airport, 2.1 km from Railway Station Udaipur and Walk-able from Udaipur Bus Depot. Tourist attractions in Udaipur are Jagdish Temple(1.8 km), City Palace(1.9 km), Jagmandir(1.9 km), Lake Pichola(2.2 km), Shiv Niwas Palace(2.6 km), Taj Lake Palace(2.8 km), Saheliyon Ki Bari(3.9 km), Moti Magri(4.4 km), Fateh Sagar Lake(4.7 km) and Monsoon Palace(9.3 km). The hotel offers 25 Rooms (14 Double Beds, 5 Family Rooms) facilities like room service and parking to make the stay comfortable. Taxi services, airport/railway station transfer, guide service, laundry and sightseeing are available on a chargeable basis. Guests can avail the facility of a doctor on call if there is any medical emergency. Rooms of the property are spacious, well ventilated and maintained. Rooms have air-conditioner, cable television, intercom, study table, mineral water and daily newspaper(on request). Attached bathrooms have shower area, facility of hot/cold water and bathroom toiletries.</p>",
-		"location": "Gulab Bagh Area",
-		"map_location": "https://g.page/hotel-florence-continental?share",
-		"price": {
-			"minimum": 1500,
-			"maximum": 10000
-		},
-		"cover_image": "https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/florence-continental.jpeg?raw=true",
-		"other_images": [
-			"https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/hotel-florence-2.jpg?raw=true"
-		],
-		"stats": {
-			"rating": 4.8,
-			"review_count": 13528
-		},
-		"amenities": [
-			"Wifi",
-			"Air Conditioning",
-			"Laundry",
-			"Breakfast",
-			"TV",
-			"Parking",
-			"Heater",
-			"Gyser",
-			"First Aid Kit",
-			"Smoke Alarm"
-		],
-		"check_in_time": "12:00 pm",
-		"check_out_time": "10:00 am",
-		"rules": [
-			"No pets allowed"
-		]
 	}
 ]
