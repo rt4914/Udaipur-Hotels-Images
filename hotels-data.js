@@ -8,7 +8,7 @@
 			"minimum": 3000,
 			"maximum": 9000
 		},
-		"cover_image": "https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/Boheda%20Facade.jpg?raw=true",
+		"cover_image": "https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/Boheda%20Facade%20mm.jpg?raw=true",
 		"other_images": [
 			"https://github.com/rt4914/Udaipur-Hotels-Images/blob/main/hotel-images/Boheda%20Rooftop%20Restaurant.jpg?raw=true"
 		],
